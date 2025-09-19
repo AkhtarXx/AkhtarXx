@@ -5,7 +5,7 @@ Machine learning engineer
 -------------------------
 
 * 🌍  I'm based in pakistan
-* ✉️  You can contact me at [sayedzada732@gmail.com](mailto:sayedzada732@gmail.com)
+* ✉️  You can contact me at [sayedzada732@gmail.com](mailto:akhtargharsheen@gmail.com)
 * 🧠  I'm learning ML and Deep Learning
 * 🤝  I'm open to collaborating on Deep learning projects
 
